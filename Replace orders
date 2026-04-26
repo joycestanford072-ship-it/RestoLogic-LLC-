@@ -1,0 +1,1 @@
+<Card title="Orders Today" value={orders.length} />
